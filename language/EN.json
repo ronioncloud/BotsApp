@@ -207,7 +207,9 @@
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
-            "SYSD_DESC": "Shows the system properties."
+            "SYSD_DESC": "Shows the system properties.",
+            "OWNR": "917838204238@s.whatsapp.net",
+            "ALIVE_TXT": "```✮ THE BOT IS RUNNING SUCCESSFULLY!``` *ψ(｀∇´)ψ*``` ✮```\n\n*✥  Owner :* @{} \n*✥  Database :* ```Functioning Normally```\n*✥  Telethon Version :* ```1.21.1```\n*✥  Python Version :* ```3.9.2```\n*✥  CPU :* ```Intel Xeon E5-2670 v2 (8) @ 2.494GHz ```\n*✥  OS :* ```Kali GNU/Linux Rolling x86_64```\n*✥  Kernel :* ```4.4.0-1088-aws```\n*✥  Shell :* ```bash 5.0.0```\n*✥  Terminal :* ```Node```\n*✥  Heroku :* ```Connected```\n*✥  LogChat:* ```Connected```\n*✥  SpamProtect :* ```False```\n*✥  My peru owner :* ```Prince```\n*✥  Branch :* ```Main```"
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
